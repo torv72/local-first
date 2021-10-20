@@ -1,1 +1,3 @@
-This is my first text in my READM.
+This is my first text in my README.
+
+And here is some more text.
